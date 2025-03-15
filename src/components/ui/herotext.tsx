@@ -10,7 +10,7 @@ export default function Herotext() {
   return (
     <div className={`${inter.variable} flex items-center justify-center`}>
       <BreathingText
-        label="Welcome to Guider"
+        label="Welcome to ResourceIQ"
         className="font-inter text-5xl sm:text-7xl md:text-9xl"
         staggerDuration={0.3}
         fromFontVariationSettings="'wght' 100, 'slnt' 0"

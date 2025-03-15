@@ -23,7 +23,7 @@ export default function Footer() {
                 fill="currentColor"
               />
             </svg>
-            <span>Guider</span>
+            <span>ResourceIQ</span>
           </div>
           <p>Gate to Success</p>
         </aside>

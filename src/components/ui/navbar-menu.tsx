@@ -41,7 +41,7 @@ export const Navbar = () => {
       <div className="flex justify-between items-center">
         {/* Logo */}
         <Link href="/" className="text-white text-2xl font-bold">
-          Guider
+          ResourceIQ
         </Link>
 
         {/* Desktop Menu */}

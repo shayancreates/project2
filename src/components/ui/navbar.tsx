@@ -43,7 +43,7 @@ const Navbar = () => {
     >
       {/* Logo */}
       <Link href="/" className="text-2xl font-bold">
-        Guider
+        ResourceIQ
       </Link>
 
       {/* Navigation Links */}
